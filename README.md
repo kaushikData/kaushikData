@@ -2,10 +2,6 @@
 ![](https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=kaushikData&show_icons=true&hide_border=true)
-
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushikData&langs_count=8&layout=compact)
-
 <h2> Happy Learning! </h2>  
 <div align="center">
 <a href="https://github.com/kaushikData" target="_blank">
